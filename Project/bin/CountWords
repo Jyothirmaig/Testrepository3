@@ -1,0 +1,5 @@
+Java program to count number of words in given string
+Example Input:
+welcome to java tutorial
+Output:
+Number of words in a string = 4
